@@ -21,3 +21,5 @@ I'm currently interested in Cybersecurity of IoT devices. Anything from hardware
 Blog: https://blog.denizariyan.com
 
 Want to contact me? Use: denizariyan@wearehackerone.com
+
+![](https://komarev.com/ghpvc/?username=denizariyan)
